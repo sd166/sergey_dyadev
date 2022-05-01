@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Dyadev Sergey
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Dyadev Sergey
 
